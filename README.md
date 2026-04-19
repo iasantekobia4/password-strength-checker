@@ -1,2 +1,10 @@
-# password-strength-checker
-A Python tool to check password strength
+# Password Strength Checker 🔐
+
+This project checks the strength of a password using Python.
+
+## Features
+- Detects weak passwords
+- Suggests strong password patterns
+
+## Technologies
+- Python
